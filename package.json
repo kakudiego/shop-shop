@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "mongoose": "^6.3.3",
-    "node-pre-gyp": "^0.17.0"
+    "node-pre-gyp": "^0.17.0",
+    "react-router-dom": "^6.3.0"
   }
 }
